@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Talk-A-Tive",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a full-stack chat app with real-time messaging, group chat features.",
+    "skills": ["React", "Express", "Node","Socket.io"],
+    "demo": "https://talk-a-tive-7fgq.onrender.com/",
+    "source": "https://github.com/anmoldeep38/mern-chating-app"
+  },
+  {
+    "title": "Movies & TV Series App",
+    "imageSrc": "projects/project.png",
+    "description": "Built a responsive movie and TV series app using React and MOVIEDB API.",
+    "skills": ["React", "Javascript", "Postman","Material UI"],
+    "demo": "https://entertainmenthub.netlify.app/",
+    "source": "https://github.com/anmoldeep38/MOVIES--APP"
+  },
+  {
+    "title": "Ecommerce with Payment Gateway",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an e-comerce platform with integrated secure payment.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/anmoldeep38/Ecommerce--Web-Application",
+    "source": "https://github.com/anmoldeep38/Ecommerce--Web-Application"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Graduate Engineer Trainee",
+    "organisation": "Talent Serve Pvt. Ltd.",
+    "startDate": "April, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Database optimization strategy", "Reduced load times by 50%"],
+    "imageSrc": "history/Talent Serve.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Navodita Infotech",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on Ecommerce Platform", "Implemented responsive design"],
+    "imageSrc": "history/NavoditaInfo.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "PHN TECHNOLOGY PVT. LTD.",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Migration of Website to React Js",
+      "Refactored APIs by reducing data ",
+      "retrieval time by 30%"
+    ],
+    "imageSrc": "history/phnq.png"
+  }
+]
